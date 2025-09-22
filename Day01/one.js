@@ -8,3 +8,9 @@ Reactroot.render(div1);
 
 // const ele = React.createElement("hi",{},"Hello");
 
+
+
+
+// git remote add origin https://github.com/Ajay22032001/React.git
+// git branch -M main
+// git push -u origin main
