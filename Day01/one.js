@@ -11,6 +11,6 @@ Reactroot.render(div1);
 
 
 
-// git remote add origin https://github.com/Ajay22032001/React.git
-// git branch -M main
-// git push -u origin main
+//git remote add origin https://github.com/Ajay22032001/React_Learning.git
+//git branch -M main
+//git push -u origin main
